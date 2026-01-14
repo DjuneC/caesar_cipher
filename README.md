@@ -10,10 +10,10 @@ to process, and the shift value (key).
 
 ## How to Use
 
-1.  **Run the Code:**  Execute the Python script (e.g., `caesar.py`).
+1.  **Run the Code:**  Execute the Python script (e.g., `python caesar.py`).
 2.  **Choose Mode:** The program will prompt you to select `encode` or `decode`.
 3.  **Enter Message:**  Type the message you want to encrypt or decrypt.
-4.  **Enter Shift Value:**  Enter the integer shift value (key) – positive for encoding, negative for decoding.
+4.  **Enter Shift Value:**  Enter the integer shift value (key).
 
 ## Example
 
