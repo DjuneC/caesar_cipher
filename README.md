@@ -32,7 +32,7 @@ https://github.com/DjuneC/caesar_cipher.git
 
 ## Notes
 
-*   This is a simplified implementation and doesn't handle upper-case letters or spaces.
+*   This is a simplified implementation and does handle upper-case letters or spaces.
 *   The shift value is applied modulo 26 to wrap around the alphabet.
 
 ## Author
